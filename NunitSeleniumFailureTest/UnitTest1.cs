@@ -87,5 +87,11 @@ namespace NunitSeleniumFailureTest
             closeButton.Click();
 
         }
+
+        [OneTimeTearDown]
+        public void OneTimeTearDown()
+        {
+            driver.Quit();
+        }
     }
 }
