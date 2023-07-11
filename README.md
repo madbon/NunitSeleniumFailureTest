@@ -8,9 +8,9 @@ Observe the website's response.
 
 Expected Results:
 
--The website should display an error message or provide feedback indicating that a negative quantity is not allowed.
--The website should not update the quantity of the product to a negative value.
--The website should retain the previous valid quantity value.
+- The website should display an error message or provide feedback indicating that a negative quantity is not allowed.
+- The website should not update the quantity of the product to a negative value.
+- The website should retain the previous valid quantity value.
 
 Application
 1. Visual Studio
