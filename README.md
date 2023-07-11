@@ -37,5 +37,5 @@ Available Tests
 - VerifyCartDisplayed
 - CheckIfCanAddNegativeQuantity
 - NavigateToSelectedProduct
-- ClickAddToCartByProductId
+
 
