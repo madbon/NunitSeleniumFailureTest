@@ -1,5 +1,5 @@
 Application
-1. Visual Studio (VB6)
+1. Visual Studio
 
 Framework Used
 - .NET 6.0 (Long Term Support)
