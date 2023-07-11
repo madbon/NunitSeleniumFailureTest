@@ -1,10 +1,11 @@
 Failure Test:
-Open the website (https://www.automationexercise.com/) in a web browser.
-Navigate to the product page or section where the quantity can be updated.
-Locate the quantity input field and ensure it is editable.
-Input a negative value (e.g., -1) into the quantity field.
-Press the "Add to Cart".
-Observe the website's response.
+1. Open the website (https://www.automationexercise.com/) in a web browser.
+2. Proceed to the product page and click "Add to Cart" for the desired product.
+3. Navigate to the Cart page or section where the quantity can be updated.
+4. Locate the quantity input field and ensure it is editable.
+5. Input a negative value (e.g., -1) into the quantity field.
+6. Press the "Add to Cart".
+7. Observe the website's response.
 
 Expected Results:
 
